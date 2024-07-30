@@ -684,9 +684,6 @@ body {
     gap: 24px;
   }
   
-  .order-form-label {
-  }
-  
   .input-label {
     width: 288px;
     height: 40px;
@@ -927,9 +924,6 @@ body {
     justify-content: center;
     fill: transparent;
     margin-right: 8px;
-  }
-  
-  .check-box-svg {
   }
   
   input:checked + .check-box-label .check-box-label-span {
