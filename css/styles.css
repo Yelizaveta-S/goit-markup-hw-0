@@ -505,6 +505,7 @@ body {
     flex-wrap: wrap;
     row-gap: 48px;
   }
+  
   .portfolio-item {
     width: 100%;
     transition: box-shadow;
